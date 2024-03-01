@@ -439,7 +439,7 @@ body {
 /* ============= /Footer section styles ============= */
 
 /* ============= /Form footer styles ============= */
-.form-footer-label {
+.form-footer-text {
   display: block;
   font-weight: 500;
   font-size: 16px;
@@ -489,6 +489,8 @@ body {
   letter-spacing: 0.04em;
   text-align: center;
   color: #fff;
+
+  cursor: pointer;
 
   border: none;
   border-radius: 4px;
