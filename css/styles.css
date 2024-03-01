@@ -439,7 +439,7 @@ body {
 /* ============= /Footer section styles ============= */
 
 /* ============= /Form footer styles ============= */
-.form-footer-text {
+.form-footer-label {
   display: block;
   font-weight: 500;
   font-size: 16px;
@@ -500,6 +500,10 @@ body {
 
 .subscribe-form-btn:hover {
   background-color: #404bbf;
+}
+
+.subscribe-form-btn-icon {
+  margin-left: 16px;
 }
 /* ============= /Form footer styles ============= */
 
